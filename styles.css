@@ -100,12 +100,12 @@ body {
 
 /* attributes for when its hovered upon */
 #tree-img:hover::after {
-    content: 'The One Ring';
+    content: 'Tree of Gondor';
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) rotateY(180deg);
-    font-size: 35px;
+    font-size: 30px;
     color: white;
     text-align: center;
 }
